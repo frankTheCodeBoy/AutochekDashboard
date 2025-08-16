@@ -59,11 +59,6 @@ python dashboard.py
 
 Then visit `http://localhost:8050` in your browser to interact with the dashboard.
 
-## 🖼️ Demo
-
-![Dashboard Preview](https://github.com/frankTheCodeBoy/AutochekDashboard/blob/main/assets/demo.png)  
-*Explore vehicle listings and pricing insights interactively.*
-
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE). You’re free to use, modify, and distribute it with proper attribution.
